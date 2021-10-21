@@ -1,0 +1,24 @@
+{
+  "Prodotti": [
+    {
+      "Prodotto": "crdeswv",
+      "Quantità": 10,
+      "Prezzo": 153.0
+    },
+    {
+      "Prodotto": "crdeswv32",
+      "Quantità": 10,
+      "Prezzo": 153.4554
+    },
+    {
+      "Prodotto": "moue",
+      "Quantità": 10,
+      "Prezzo": 105.0
+    },
+    {
+      "Prodotto": "mouse",
+      "Quantità": 12,
+      "Prezzo": 1523.0
+    }
+  ]
+}
